@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "121876398227",
+    "firebase_url": "https://myfirebaseproject-5d1fe.firebaseio.com",
+    "project_id": "myfirebaseproject-5d1fe",
+    "storage_bucket": "myfirebaseproject-5d1fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121876398227:android:73dc871544016f08",
+        "android_client_info": {
+          "package_name": "com.example.vamsi.my"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121876398227-iktqtf4o649strdhe7qlvo6ogs88jsso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vamsi.my",
+            "certificate_hash": "9777ee2ac1553474dbad6dd4b5afdb9609b95081"
+          }
+        },
+        {
+          "client_id": "121876398227-a41cj8nfua5o30tooc78f53bqq093e5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRQLrW-TTocbcYpUwFZq92DFftCDc4TN8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121876398227-a41cj8nfua5o30tooc78f53bqq093e5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

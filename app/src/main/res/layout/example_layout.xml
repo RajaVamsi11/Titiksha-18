@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.github.captain_miao.optroundcardview.OptRoundCardView
+    android:id="@+id/top_card_view_results"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:optRoundCardCornerRadius="16dp"
+    android:alpha="0.7"
+    app:optRoundCardLeftBottomCorner="true"
+    android:layout_marginLeft="16dp"
+    android:layout_marginRight="16dp"
+    android:layout_marginBottom="8dp"
+    android:layout_marginTop="8dp"
+    android:background="@android:color/darker_gray"
+    android:elevation="3dp"
+    app:optRoundCardRightBottomCorner="true"
+    app:optRoundCardRightTopCorner="true"
+    app:optRoundCardBottomEdges="false"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <FrameLayout
+            android:id="@+id/frameLayoutResults"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@drawable/card_edge">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <TextView
+                    android:id="@+id/tvEventNameResult"
+                    android:textColor="@android:color/white"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="8dp"
+                    android:text="Counter Strike"
+                    android:textSize="20sp"
+                    />
+
+                <TextView
+                    android:id="@+id/tvEventTypeResult"
+                    android:textColor="@android:color/white"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="8dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginTop="8dp"
+                    android:text="INFORMAL"
+                    android:textSize="20sp"
+                    />
+            </RelativeLayout>
+        </FrameLayout>
+
+        <RelativeLayout
+            android:background="@android:color/transparent"
+            android:layout_below="@id/frameLayoutResults"
+            android:layout_width="match_parent"
+            android:paddingBottom="12dp"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tvEventWinners"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="4dp"
+                android:gravity="center_horizontal"
+                android:layout_alignParentRight="true"
+                android:text="WINNERS"
+                android:textSize="18sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvEventWinnerFirstName"
+                android:layout_marginTop="4dp"
+                android:textSize="18sp"
+                android:text="First : Dundi Raja Vamsi Reddy"
+                android:layout_below="@id/tvEventWinners" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvEventWinnerSecondName"
+                android:layout_marginTop="4dp"
+                android:textSize="18sp"
+                android:text="Second : Sushil Khanchi"
+                android:layout_below="@id/tvEventWinnerFirstName"
+             />
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+
+</com.github.captain_miao.optroundcardview.OptRoundCardView>
+
+
+

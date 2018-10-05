@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/upcoming_id"
+        android:icon="@drawable/baseline_event_white_24"
+        android:title="Upcoming" />
+    <item
+        android:id="@+id/results_id"
+        android:icon="@drawable/baseline_event_available_white_24"
+        android:title="Results" />
+</menu>
+<!--
+
+<item name="android:actionMenuTextColor">
+@color/your_color</item>
+-->

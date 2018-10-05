@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello  fragment</string>
+    <string name="titiksha">TITIKSHA</string>
+    <string name="item_gallery">Gallery</string>
+    <string name="item_about">About</string>
+    <string name="item_contact_us">Contact Us</string>
+    <string name="about">Titiksha has been an example in achieving huge feats with unparalleled figures ever since its inception in 2008. Titiksha has grown in stature in terms of its content, infrastructure and logistics. The overwhelming crowd of such a high magnitude and a world-class technological display along with a tinge of enjoyment has made our dream a technological extravaganza. With such vastness and diversity, the hospitality of the guests is of paramount importance.We, at Titiksha, constantly strive towards the satisfaction of everyone. We shall leave no stone unturned in fulfilling the needs of a secure accommodation away from home. Along with accommodation facilities for our participants, we also set up a cafeteria serving a variety of cuisines satisfying the needs of every palate. We strive to make your stay comfortable and your experience, a memorable one.</string>
+</resources>

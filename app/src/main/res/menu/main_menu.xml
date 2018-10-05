@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/gallery_id"
+        android:title="@string/item_gallery" />
+    <item
+        android:id="@+id/about_id"
+        android:title="@string/item_about" />
+    <item
+        android:id="@+id/contact_id"
+        android:title="@string/item_contact_us" />
+</menu>
