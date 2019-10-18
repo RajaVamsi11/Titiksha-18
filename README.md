@@ -1,8 +1,8 @@
 # Titiksha
 It is an android application for the Annual Technical festival event of Shri Mata Vaishno Devi University.
 
-This application is used for sharing upcoming events details and results of the events completed
-to the students who are interested in the event. The app is capaple of sending notifications to the user about event details and contains
+This application is used for sharing upcoming events details and results of the events completed in smvdu
+to the students of smvdu who are interested in the event. The app is capaple of sending notifications to the user about event details and contains
 basic screens like About screen, Contact us screen and many more.
 
 ## Screenshots
