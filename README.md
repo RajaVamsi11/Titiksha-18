@@ -1,4 +1,8 @@
 # Titiksha
+[![GitHub issues](https://img.shields.io/github/issues/RajaVamsi11/Titiksha-18)](https://github.com/RajaVamsi11/Titiksha-18/issues)
+[![GitHub forks](https://img.shields.io/github/forks/RajaVamsi11/Titiksha-18)](https://github.com/RajaVamsi11/Titiksha-18/network)
+[![GitHub stars](https://img.shields.io/github/stars/RajaVamsi11/Titiksha-18)](https://github.com/RajaVamsi11/Titiksha-18/stargazers)
+
 It is an android application for the Annual Technical festival event of Shri Mata Vaishno Devi University.
 
 This application is used for sharing upcoming events details and results of the events completed in smvdu
