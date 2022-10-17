@@ -15,7 +15,7 @@ basic screens like About screen, Contact us screen and many more.
 
 ### Technical Overview
 This app can retrieve data from Firebase in Realtime and display it in the app using Recycler view. 
-It also got another feature like push notification in real-time.
-we can send notifications to the users of the app using cloud
-messaging in Firebase and these notifications are stored in the app using recycler
+It also got another feature like push notifications in real-time.
+we can send notifications to the users of the app using the cloud
+messaging in Firebase and these notifications are stored in the app using a recycler
 view in notification activity.
