@@ -19,5 +19,3 @@ It also got another feature like push notification in real-time.
 we can send notifications to the users of the app using cloud
 messaging in Firebase and these notifications are stored in the app using recycler
 view in notification activity.
-
-One can find apk file of the app <a href='https://drive.google.com/file/d/1D7RtpntBh4kuFa7J_E8cinzWrkgZ9Wbv/view'>here</a>.
